@@ -1,6 +1,6 @@
 # georuta
 
-A new Flutter project.
+A new Flutter project. xd
 
 ## Getting Started
 
